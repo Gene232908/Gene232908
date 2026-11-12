@@ -1,5 +1,5 @@
 <a href="https://www.genemat.site/">
-  <img src="./assets/profile.svg" width="100%" alt="Gene Wagas, Full-Stack Web Developer and IT Specialist. Selected work, services, stack and contact.">
+  <img src="./profile.svg" width="100%" alt="Gene Wagas, Full-Stack Web Developer and IT Specialist. Selected work, services, stack and contact.">
 </a>
 
 <p align="center">
